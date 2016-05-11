@@ -7,6 +7,7 @@ gem "fog", "~> 1.3.1"
 gem 'mini_magick', '~> 4.3.1'
 gem "carrierwave-aws"
 gem 'stripe'
+gem 'ranked-model'
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
